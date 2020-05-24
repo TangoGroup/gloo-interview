@@ -1,0 +1,2758 @@
+[
+  {
+    "id": "b33248b6-6646-428f-b813-aa646871195c",
+    "firstName": "Antonetta",
+    "lastName": "Sienna",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "39fa9ae8-dc94-448d-be56-098b590d5705",
+    "firstName": "Terence",
+    "lastName": "Chandler",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "a0e7c64e-aa6e-4bd6-a146-26d46f0729f8",
+    "firstName": "Shana",
+    "lastName": "Green",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "1112f4ac-f844-4dd1-8795-2796d4acd04c",
+    "firstName": "Jaeden",
+    "lastName": "Hettie",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "1a8c4dd8-c364-4a7b-b5f2-c86b5bf6ad3a",
+    "firstName": "Murl",
+    "lastName": "Kirk",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "91bb12e0-5045-44e5-870b-83f8e04b5a31",
+    "firstName": "Bryana",
+    "lastName": "Barrett",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "239f3ee7-fdc9-4d49-9681-e9cb3016ed66",
+    "firstName": "Carolyne",
+    "lastName": "Benton",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "beeb3c79-51d6-4a1f-8e1d-2c6b11397d72",
+    "firstName": "Katrine",
+    "lastName": "Annamarie",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "fb638171-2bcc-4de2-ba4b-fb770cbc4539",
+    "firstName": "Terrell",
+    "lastName": "Carolyne",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "fc6b2772-3c54-4888-b1aa-5acb715ed6c3",
+    "firstName": "Jordi",
+    "lastName": "Grace",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "7f91435b-dee6-4427-adce-088233a6313c",
+    "firstName": "Alycia",
+    "lastName": "Marcus",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "7806e04a-e626-44a8-b2d8-fa7dd08360e1",
+    "firstName": "Breana",
+    "lastName": "Malvina",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "818bf393-73d4-47dc-98d3-414c96e4a43c",
+    "firstName": "Marina",
+    "lastName": "Kaylah",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "dd6b2245-cbe6-4ab7-bf5d-d455c20c5961",
+    "firstName": "Heidi",
+    "lastName": "Tristin",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "738d0a73-e989-4b4c-86ee-f67c2598bcd9",
+    "firstName": "Benny",
+    "lastName": "Kayli",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "0b4dbe4f-b145-4d2e-8ceb-bdcf6cd4e0ef",
+    "firstName": "Reba",
+    "lastName": "Stewart",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "59de259e-3dc4-470e-bdf1-3d35fcfe75cd",
+    "firstName": "Sid",
+    "lastName": "Ivah",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "d1311d80-013f-435f-b228-4b85d50bdc89",
+    "firstName": "Jazmin",
+    "lastName": "Dario",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "e00d69af-9f4b-4d40-9f20-7201e3c467c3",
+    "firstName": "Teresa",
+    "lastName": "Wilber",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "27c8514c-df16-4278-9677-3b689efd8245",
+    "firstName": "Sallie",
+    "lastName": "Cleta",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "6e38f8b3-0ab9-45d4-a9bf-7914db704297",
+    "firstName": "Serenity",
+    "lastName": "Monte",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "6f0fea41-df3d-44c5-a3b4-ee1677b16ba3",
+    "firstName": "Walker",
+    "lastName": "Jerry",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "a2b094c8-4e7a-4b65-be31-b3d850a02e54",
+    "firstName": "Trevor",
+    "lastName": "Bettye",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "bd847acf-f504-470a-ae2c-17202c96eb15",
+    "firstName": "Dahlia",
+    "lastName": "Ben",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "356f6cfa-ee74-4384-beb3-68b51076df0e",
+    "firstName": "Penelope",
+    "lastName": "Claudia",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "e28a6cab-9272-4aa3-a0e5-1ae910d2c800",
+    "firstName": "Rene",
+    "lastName": "Pablo",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "c04c9edf-b318-4a2a-a30d-ca858c9096f2",
+    "firstName": "Kody",
+    "lastName": "Leopoldo",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "514eadc0-0344-407a-aff8-d25bcad36a9e",
+    "firstName": "Herbert",
+    "lastName": "Orpha",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "49105aee-6501-434b-a82d-255fcdbb85c7",
+    "firstName": "Baron",
+    "lastName": "Niko",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "7b1469ce-3729-456e-8bb5-963f26d20db0",
+    "firstName": "Lorine",
+    "lastName": "Conrad",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "5c03ab05-4422-464b-b9d5-5c0ee7f52ad3",
+    "firstName": "Madisyn",
+    "lastName": "Julianne",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "13ed038a-e2e9-4a63-b20a-5dba17a70153",
+    "firstName": "Wallace",
+    "lastName": "Vance",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "b8baa1c6-ea39-4615-84e0-5e8e7577f778",
+    "firstName": "Armani",
+    "lastName": "John",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "d0cc2e51-1cfb-4992-8281-741110349644",
+    "firstName": "Earl",
+    "lastName": "Justen",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "30d2c4ba-b664-495a-8402-f4877d600df8",
+    "firstName": "Jacinthe",
+    "lastName": "Camron",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "168c4cc3-fecf-4db0-8da2-9af2075a53c0",
+    "firstName": "Giles",
+    "lastName": "Mollie",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "3ee4de1d-6feb-4084-9b5f-76e3b8686ae4",
+    "firstName": "Melyna",
+    "lastName": "Brandt",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "354bb28e-78aa-44a6-9042-5954846fee42",
+    "firstName": "Lexus",
+    "lastName": "Marian",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "1b544af7-0dd0-46f3-b736-b90657caed18",
+    "firstName": "Rickey",
+    "lastName": "Bettye",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "fa3d6367-8d84-476e-80fb-a38759b3ea04",
+    "firstName": "Tessie",
+    "lastName": "Dedric",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "6e8df47c-fd4c-4008-99b0-d8147987d837",
+    "firstName": "Louvenia",
+    "lastName": "Jenifer",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "cdc8c32b-5557-4fc4-85a3-4f67e508c35a",
+    "firstName": "Demetris",
+    "lastName": "Ken",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "d6ca4367-5b1a-43dd-a089-0048a852a9ad",
+    "firstName": "Dante",
+    "lastName": "Rubye",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "6e021768-91c9-4559-9d31-1f4a0da26615",
+    "firstName": "Onie",
+    "lastName": "Jordan",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "0b31d1e2-997f-49be-aab1-6aef6d469e65",
+    "firstName": "Jarod",
+    "lastName": "Clara",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "8820ed22-8797-4649-ad2b-e9383745cf60",
+    "firstName": "Aditya",
+    "lastName": "Cecelia",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "ddfc1d57-4969-4da0-a921-ca129c146b8a",
+    "firstName": "Cathy",
+    "lastName": "Ludwig",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "d5784ad4-9bcf-4588-8bb6-edd05aa39b84",
+    "firstName": "Kasey",
+    "lastName": "Kiley",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "842a5994-fd06-4d55-be04-4d7bc20ccc97",
+    "firstName": "Agustin",
+    "lastName": "Davion",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "5aca80f4-ad2b-400b-a3b8-a5dfa537569d",
+    "firstName": "Kira",
+    "lastName": "Kayleigh",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "6d04da03-ecf7-463c-8f62-b675993c1d2a",
+    "firstName": "Garrett",
+    "lastName": "Kameron",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "f90f5aa7-1eff-4817-8999-dd570ef559f8",
+    "firstName": "Demarcus",
+    "lastName": "Columbus",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "d9104410-12c9-4080-9306-efa9d0b6f340",
+    "firstName": "Akeem",
+    "lastName": "Jarret",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "25f01630-7bab-4e38-8483-f2a565ad093c",
+    "firstName": "Charley",
+    "lastName": "Emily",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "f5e6bc06-1398-4e72-a384-a293c4a2eccf",
+    "firstName": "Kenna",
+    "lastName": "Penelope",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "c1ce1420-dab2-4e1e-97e6-34dc0b23a660",
+    "firstName": "Sandrine",
+    "lastName": "Lyric",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "30fc3775-aee9-4553-83f6-9654a819750f",
+    "firstName": "Lizzie",
+    "lastName": "Myles",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "9f5aa4db-3f82-4355-ab29-7694ccfac59c",
+    "firstName": "Jeanette",
+    "lastName": "Lue",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "fcba667d-001b-422e-b9b3-c8bf63d000f6",
+    "firstName": "Brando",
+    "lastName": "Nils",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "0b2f7b37-e603-449a-94da-3d6bc289122b",
+    "firstName": "Guadalupe",
+    "lastName": "Jayson",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "ed432df3-2a2e-4c5e-ac9b-e69cccac687e",
+    "firstName": "Ludwig",
+    "lastName": "Tillman",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "8a80262c-da88-4359-8ddd-203821d970df",
+    "firstName": "Kenya",
+    "lastName": "Joyce",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "723dc9df-26a5-4557-8d4c-ea6b190a9c4b",
+    "firstName": "Jaunita",
+    "lastName": "Claudie",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "88396bb1-e4d0-4db6-8bde-0f24866374ae",
+    "firstName": "Maeve",
+    "lastName": "Amber",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "5213c333-b89f-4823-8052-fd180050aba0",
+    "firstName": "Lavon",
+    "lastName": "Herminio",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "59aa96f1-314b-4525-a24c-62d0f7fa3f00",
+    "firstName": "Gerda",
+    "lastName": "Kayla",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "013e936b-f9ad-4bdd-bc78-e36eede8a470",
+    "firstName": "Kathryne",
+    "lastName": "Esmeralda",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "10c6c60d-dfd2-4e02-a25c-10eb38deeff6",
+    "firstName": "Erik",
+    "lastName": "Amelie",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "5a75c660-9f99-487c-a38e-7f717a71e192",
+    "firstName": "Cyrus",
+    "lastName": "Audra",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "e77f9d7b-0860-4c24-97a8-df3d9b0e9030",
+    "firstName": "Annamae",
+    "lastName": "Jennie",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "e220bc5d-83a3-427a-91a6-e06ef01e30fd",
+    "firstName": "Hermina",
+    "lastName": "Adrain",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "eb2cb8bb-3380-44a0-ab52-0586162872ef",
+    "firstName": "Alana",
+    "lastName": "Jesus",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "8a11b40d-ae65-410f-b679-19a950cb73ed",
+    "firstName": "Sanford",
+    "lastName": "Clint",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "42cb6605-9a31-4997-87fe-3d59f4e86178",
+    "firstName": "Grover",
+    "lastName": "Willard",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "cca302e3-a9d0-43da-ada2-bd10a31752bf",
+    "firstName": "Rafael",
+    "lastName": "Cicero",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "32e84b13-ffed-40d8-82a4-ebc59d7f89b2",
+    "firstName": "Gianni",
+    "lastName": "Dessie",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "e71f6dd6-6fa5-4bc7-801e-3fc63c5be487",
+    "firstName": "Hilda",
+    "lastName": "Araceli",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "26774299-7faf-4b5b-a485-b316594ae41f",
+    "firstName": "Westley",
+    "lastName": "Jena",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "1ca04d09-ebbd-4f90-91de-cd1505f19d8f",
+    "firstName": "Isac",
+    "lastName": "Johnathan",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "28215e70-e4a5-40cc-9bd6-0ec4919d4764",
+    "firstName": "Josefa",
+    "lastName": "Mallory",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "d9144b2f-b3f1-4cee-932a-0ea8426be512",
+    "firstName": "Raphaelle",
+    "lastName": "Ericka",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "37437d7c-d3c6-42f9-85d6-71d37cb298b9",
+    "firstName": "Cassandra",
+    "lastName": "Jevon",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "b76f3117-c1a0-4ae3-aca3-83cb47c91f83",
+    "firstName": "Winifred",
+    "lastName": "Junior",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "c9246528-e5b1-488b-b39b-91cabfee0c46",
+    "firstName": "Amber",
+    "lastName": "Izaiah",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "27e298c7-a547-4523-969d-33f4c2e7d763",
+    "firstName": "Norbert",
+    "lastName": "Cydney",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "7b8b256c-4fb1-456f-b793-2123d4e36fe1",
+    "firstName": "Jordi",
+    "lastName": "Westley",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "fb4ea8b0-c84c-4582-bb73-f3baa6b2b812",
+    "firstName": "Alexa",
+    "lastName": "Koby",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "b51d6d9e-28f4-4df6-97f3-99127b4f0290",
+    "firstName": "Jimmie",
+    "lastName": "Erika",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "61b85c06-40a2-42c3-94b2-67cd67fc82d6",
+    "firstName": "Urban",
+    "lastName": "Icie",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "954914cb-0644-4a7e-b6a9-dd68731de3fa",
+    "firstName": "Jazmyne",
+    "lastName": "Fermin",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      }
+    ]
+  },
+  {
+    "id": "87cc589c-b980-4d51-ba90-878567cd4d01",
+    "firstName": "Hillard",
+    "lastName": "Gregg",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "f0cb99c8-f27b-4df0-a5b7-b00680138744",
+    "firstName": "Hank",
+    "lastName": "Asa",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "99",
+        "courseNumber": "cs6540",
+        "name": "Physical Computing Machines",
+        "teacher": "Ada Lovelace"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      }
+    ]
+  },
+  {
+    "id": "ecb0e3aa-d25c-43fc-8934-9146ffce030e",
+    "firstName": "Myles",
+    "lastName": "Evalyn",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "a5207061-c9d3-4326-a8d0-e949bfd91628",
+    "firstName": "Marley",
+    "lastName": "Carleton",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "97f2434e-a803-4bff-adfa-b6ebb4b78c46",
+    "firstName": "Theodora",
+    "lastName": "Anastacio",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "ad0778d0-4b7b-44b3-b16d-dc14081c1508",
+    "firstName": "Oral",
+    "lastName": "Athena",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "dfb4a164-30e5-4b4f-86ba-65c13e4e42ce",
+    "firstName": "Melody",
+    "lastName": "Leann",
+    "major": "Electrical Engineering",
+    "courses": [
+      {
+        "id": "28",
+        "name": "Introduction to Operating Systems",
+        "courseNumber": "cs3240",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      }
+    ]
+  },
+  {
+    "id": "35b34fd1-dcdc-4b95-b938-1055647f1008",
+    "firstName": "Verner",
+    "lastName": "Kathleen",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      }
+    ]
+  },
+  {
+    "id": "c223d8fe-eb30-4923-8dfa-09f74296f9c3",
+    "firstName": "Francis",
+    "lastName": "Princess",
+    "major": "Computer Science",
+    "courses": [
+      {
+        "id": "26",
+        "name": "Advanced Computational Geometry",
+        "courseNumber": "cs7520",
+        "teacher": "Alan Turing"
+      },
+      {
+        "id": "94",
+        "courseNumber": "cs4440",
+        "name": "Introduction to Compilers",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  },
+  {
+    "id": "65df9be1-7665-406c-b81c-850c4b9fcafd",
+    "firstName": "Melody",
+    "lastName": "Ian",
+    "major": "Computer Engineering",
+    "courses": [
+      {
+        "id": "17",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Grace Hopper"
+      },
+      {
+        "id": "23",
+        "name": "Analysis of Algorithms",
+        "courseNumber": "cs5150",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "83",
+        "name": "Introduction to Functional Programming",
+        "courseNumber": "cs3110",
+        "teacher": "Donald Knuth"
+      },
+      {
+        "id": "74",
+        "name": "Computer Graphics",
+        "courseNumber": "cs4510",
+        "teacher": "Ken Thompson"
+      }
+    ]
+  }
+]
