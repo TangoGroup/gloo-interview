@@ -16,8 +16,8 @@ Feel free to use any tooling or documentation that you like. Also feel free to i
 Fork the repo and clone it to your local machine.
 
 ## Install
-Install Java 14 or change the java version to your preferred version in the `pom.xml` file under
-`<java.version>14</java.version>` and run
+Install Java 11 or change the java version to your preferred version in `pom.xml` file under
+`<java.version>11</java.version>` and run
 ```shell script
 $ ./mvnw clean package -DskipTests
 ```
