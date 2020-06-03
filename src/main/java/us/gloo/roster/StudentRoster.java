@@ -17,9 +17,9 @@ public class StudentRoster {
         studentRoster = Arrays.asList(deserializeJson("classpath:student-roster.json"));
     }
 
-    public List<String> step1() {
+    public double step1() {
         // TODO implement me
-        return Collections.emptyList();
+        return 0.0;
     }
 
     public List<String> step2() {
@@ -27,9 +27,9 @@ public class StudentRoster {
         return Collections.emptyList();
     }
 
-    public double step3() {
+    public List<String> step3() {
         // TODO implement me
-        return 0.0;
+        return Collections.emptyList();
     }
 
     private Student[] deserializeJson(String filePath) {

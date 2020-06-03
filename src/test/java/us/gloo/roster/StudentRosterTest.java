@@ -13,7 +13,24 @@ class StudentRosterTest {
     private final StudentRoster roster = new StudentRoster();
 
     @Test
-    void step1() {
+    void testStep1() {
+        // Returns the average number of courses taken by each student
+        assertEquals(3.26, roster.step1());
+    }
+
+    @Test
+    void testStep2() {
+        // Returns the correct list of course numbers
+        var expectedCourses = Arrays.asList("cs3240", "cs7520");
+        var result = roster.step2();
+        Collections.sort(result);
+        Collections.sort(expectedCourses);
+
+        assertEquals(expectedCourses, result);
+    }
+
+    @Test
+    void testStep3() {
         // Returns the correct list of student ids
         var expectedIds = Arrays.asList(
                 "b33248b6-6646-428f-b813-aa646871195c",
@@ -60,27 +77,10 @@ class StudentRosterTest {
                 "ecb0e3aa-d25c-43fc-8934-9146ffce030e",
                 "ad0778d0-4b7b-44b3-b16d-dc14081c1508",
                 "65df9be1-7665-406c-b81c-850c4b9fcafd");
-        var result = roster.step1();
+        var result = roster.step3();
         Collections.sort(result);
         Collections.sort(expectedIds);
 
         assertEquals(expectedIds, result);
-    }
-
-    @Test
-    void step2() {
-        // Returns the correct list of course numbers
-        var expectedCourses = Arrays.asList("cs3240", "cs7520");
-        var result = roster.step2();
-        Collections.sort(result);
-        Collections.sort(expectedCourses);
-
-        assertEquals(expectedCourses, result);
-    }
-
-    @Test
-    void step3() {
-        // Returns the average number of courses taken by each student
-        assertEquals(3.26, roster.step3());
     }
 }
